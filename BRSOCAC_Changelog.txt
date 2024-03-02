@@ -1,2 +1,3 @@
-What would you expect for this update?
-- IMPROVEMENTS & SOME BUGFIXES ofc!
+Overhauls:
+- UI
+- i forgor
