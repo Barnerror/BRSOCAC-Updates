@@ -1,3 +1,6 @@
-Improvements:
-- UI
+Overhauls:
+- UI (doesn't work on other scenes at the moment)
+Bugfixes:
 - i forgor
+Changes:
+- Replaced Bimbonumulous as Rinolit (credit to rinolit_2 for the model)
