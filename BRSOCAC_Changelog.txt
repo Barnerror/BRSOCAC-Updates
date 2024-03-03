@@ -1,6 +1,14 @@
 Overhauls:
 - UI (doesn't work on other scenes at the moment)
+
 Bugfixes:
 - i forgor
+
 Changes:
 - Replaced Bimbonumulous as Rinolit (credit to rinolit_2 for the model)
+- Mr. Gold locks the door after leaving his office
+- NPCs can open the doors for a split second while being locked
+- NPC door triggers
+
+Tweaks:
+- i forgor
