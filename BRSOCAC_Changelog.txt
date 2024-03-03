@@ -6,7 +6,7 @@ Bugfixes:
 
 Changes:
 - Replaced Bimbonumulous as Rinolit (credit to rinolit_2 for the model)
-- Mr. Gold locks the door after leaving his office
+- Mr. Gold locks the door after leaving his office. Also, he can approach to the door and unlock it after getting too many warnings (only if the door is still locked)
 - NPCs can open the doors for a split second while being locked
 - NPC door triggers
 
