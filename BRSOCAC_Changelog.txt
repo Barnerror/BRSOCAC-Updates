@@ -12,3 +12,6 @@ Changes:
 
 Additionals:
 - Sprite now bounces once it hits Josh
+
+
+Yeah umm... I don't quite remember what else I added, so you'll have to find out yourself I guess.
