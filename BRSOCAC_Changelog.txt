@@ -11,7 +11,7 @@ Overhauls:
 - Redone the Sprite splash texture
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 Additions:
-- Added usage icons below the reticle depending on the selected item, so there won't be any confusion (for example, breaking a window with a sledgehammer) *(Planned)
+- Added usage icons on the left and right sides of the reticle depending on the selected item, so there won't be any confusion (for example, breaking a window with a sledgehammer) *(Planned)
 - Added an ability where you can store your items in cabinets *(Planned)
 - Mr. Anonymous can approach, pickup and throw projectiles at you
 - Mr. Anonymous doesn't kill you if he has a shield on, but he will drain some of your health instead
