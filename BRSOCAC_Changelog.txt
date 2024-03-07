@@ -46,6 +46,7 @@ Bugfixes:
 - Fixed an out-of-bounds office trigger where Mr. Gold could still give you detention for escaping while standing in a corner of the room without exiting the room
 - i forgor
 Removals:
+- Removed a role reversal attack since it was too difficult
 - Removed all Bal Man related content *(Planned)
 - Removed the background for info texts
 - Removed randomized colored lights in anniversary style
