@@ -15,6 +15,7 @@ Overhauls:
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 
 Additions:
+- Picked up items now respawn in endless mode
 - Mr. Gold can give Josh detention
 - Mr. Gold now runs away from the school upon getting the final warning during practice mode *(Planned)
 - The Sprite splash bounces off once it hits Josh
@@ -45,6 +46,7 @@ Additions:
 - Added an X sign in front of the exits (only available when they're closed)
 
 Bugfixes:
+- Fixed all gamemodes (expect for story and endless) that weren't working for all styles before
 - Fixed a bug where Dylan couldn't intentionally target the player in the original secret ending
 - Fixed Alex's bang sound where it could play twice sometimes
 - Fixed an out-of-bounds office trigger where Mr. Gold could still give you detention for escaping while standing in a corner of the room without exiting the room
@@ -59,8 +61,6 @@ Removals:
 Changes:
 - Detention time now shows in the UI again
 - Mimikyu now moves next to the player instead of teleporting
-- Increased overall game balance in Mr. Anonymous' Challenge bossfight
-- Increased the amount of projectile spawns in Mr. Anonymous' Challenge bossfight
 - Changed the fade out screen in Mr. Anonymous' challenge phase 1 ending, so it's better
 - The game now just closes instead of crashing your game *(Planned)
 - Your stamina now increases to 250% overtime instead of changing the stamina to 500%. Your stamina doesn't drop by the way (if the Pezi effect is active)
@@ -72,9 +72,11 @@ Changes:
 - Secret endings only work after winning all 4 styles, but if you manage to get an alternate ending before beating all of them, you'll get a different ending
 - Made a smaller room (the one that's located in a staff room in the rebuilt school) a bit bigger and is filled with cabinets
 - Bimbonumulous is now replaced as Rinolit instead *(Planned)
-- Reduced the amount of pre-projectile spawns in Mr. Anonymous' Challenge bossfight
-- In Blazjahn's Math Game, the music no longer plays the hang sound and changes the pitch to 0 instead
 
 Tweaks:
+- Reduced the amount of pre-projectile spawns in Mr. Anonymous' Challenge bossfight
+- Increased overall game balance in Mr. Anonymous' Challenge bossfight
+- Increased the amount of projectile spawns in Mr. Anonymous' Challenge bossfight
+- In Blazjahn's Math Game, the music no longer plays the hang sound and changes the pitch to 0 instead
 
 *0/16 finished
