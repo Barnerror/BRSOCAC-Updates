@@ -46,11 +46,13 @@ Bugfixes:
 - Fixed an out-of-bounds office trigger where Mr. Gold could still give you detention for escaping while standing in a corner of the room without exiting the room
 - i forgor
 Removals:
+- Removed a screen display from Mr. Gold's office
 - Removed a role reversal attack since it was too difficult
 - Removed all Bal Man related content *(Planned)
 - Removed the background for info texts
 - Removed randomized colored lights in anniversary style
 Changes:
+- Detention time now shows in the UI again
 - Mimikyu now moves next to the player instead of teleporting
 - Increased speed balance in Mr. Anonymous' Challenge bossfight
 - Increased the amount of projectile spawns in Mr. Anonymous' Challenge bossfight
