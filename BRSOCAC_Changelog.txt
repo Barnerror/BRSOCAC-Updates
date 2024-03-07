@@ -1,7 +1,8 @@
 Optimizations:
 Improvements:
+- Improved the game statistics (the one from the pause menu), so they're now larger, but smaller icons
+- Improved some of the old meshes that were made using ProBuilder, and now they're remade and made in Blender
 Overhauls:
-- Redone some of the old meshes that were made using ProBuilder, and now they're remade and made in Blender
 - Redone the carpet texture
 - Redone the ceiling texture
 - Redone the yellow tile floor texture *(Planned)
@@ -11,6 +12,11 @@ Overhauls:
 - Redone the Sprite splash texture
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 Additions:
+- Mr. Gold can give Josh detention
+- Mr. Gold now runs away from the school upon getting the final warning during practice mode *(Planned)
+- The Sprite splash bounces off once it hits Josh
+- Sprite, Pezi and The Golden Broom can push balloons *(Planned)
+- Pezi now has an alternative item use (works the same as Sprite, but can do more) *(Planned)
 - Added usage icons on the left and right sides of the reticle depending on the selected item, so there won't be any confusion (for example, breaking a window with a sledgehammer) *(Planned)
 - Added an ability where you can store your items in cabinets *(Planned)
 - Mr. Anonymous can approach, pickup and throw projectiles at you
@@ -35,6 +41,7 @@ Additions:
 - Once collecting a paper, dollar (or getting a warning), the text plays a little animation
 - Added an X sign in front of the exits (only available when they're closed)
 Bugfixes:
+- Fixed Alex's bang sound where it could play twice sometimes
 - Fixed an out-of-bounds office trigger where Mr. Gold could still give you detention for escaping while standing in a corner of the room without exiting the room
 - i forgor
 Removals:
@@ -59,4 +66,4 @@ Changes:
 - In Blazjahn's Math Game, the music no longer plays the hang sound and changes the pitch to 0 instead
 Tweaks:
 
-*0/13
+*0/16
