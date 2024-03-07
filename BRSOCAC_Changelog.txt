@@ -51,6 +51,7 @@ Removals:
 - Removed the background for info texts
 - Removed randomized colored lights in anniversary style
 Changes:
+- Mimikyu now moves next to the player instead of teleporting
 - Increased speed balance in Mr. Anonymous' Challenge bossfight
 - Increased the amount of projectile spawns in Mr. Anonymous' Challenge bossfight
 - Changed the fade out screen in Mr. Anonymous' challenge phase 1 ending, so it's better
