@@ -7,6 +7,8 @@ Overhauls:
 - Redone the Sprite splash texture
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 Additions:
+- A different music plays when getting all questions wrong
+- Added a little secret in practice mode
 - Added an item holder to the player
 - Added visual post processing effects when you get jumpscared
 - NPCs can now open locked doors, although the open time is limited
@@ -21,7 +23,9 @@ Bugfixes:
 - i forgor
 Removals:
 - Removed the background for info texts
+- Removed randomized colored lights in anniversary style
 Changes:
+- Secret endings only work after winning all 4 styles, but if you manage to get an alternate ending before beating all of them, you'll get a different ending
 - Made a smaller room (the one that's located in a staff room in the rebuilt school) a bit bigger and is filled with cabinets
 - Bimbonumulous is now replaced as Rinolit instead
 - Reduced the amount of pre-projectile spawns in Mr. Anonymous' Challenge
