@@ -7,6 +7,8 @@ Overhauls:
 - Redone the Sprite splash texture
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 Additions:
+- Added an announcements screen. Useful for upcoming game update statuses in the future *(Planned)
+- Added a visual effect when you sprint while Pezi is active
 - Hiding in vents is now more useless in Mr. Anonymous' Challenge, which means an entity can open the vent (the one you're hiding in) and catch you *(Planned)
 - Hiding in vents require you to hold a button to hide
 - Balloons leave a behind on the ground once they're popped *(Planned)
@@ -39,4 +41,4 @@ Changes
 - In Blazjahn's Math Game, the music no longer plays the hang sound and changes the pitch to 0 instead
 Tweaks:
 
-*0/6
+*0/7
