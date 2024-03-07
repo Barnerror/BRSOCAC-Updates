@@ -44,7 +44,6 @@ Bugfixes:
 - Fixed a bug where Dylan couldn't intentionally target the player in the original secret ending
 - Fixed Alex's bang sound where it could play twice sometimes
 - Fixed an out-of-bounds office trigger where Mr. Gold could still give you detention for escaping while standing in a corner of the room without exiting the room
-- i forgor
 Removals:
 - Removed a screen display from Mr. Gold's office
 - Removed a role reversal attack since it was too difficult
@@ -54,7 +53,7 @@ Removals:
 Changes:
 - Detention time now shows in the UI again
 - Mimikyu now moves next to the player instead of teleporting
-- Increased speed balance in Mr. Anonymous' Challenge bossfight
+- Increased overall game balance in Mr. Anonymous' Challenge bossfight
 - Increased the amount of projectile spawns in Mr. Anonymous' Challenge bossfight
 - Changed the fade out screen in Mr. Anonymous' challenge phase 1 ending, so it's better
 - The game now just closes instead of crashing your game *(Planned)
