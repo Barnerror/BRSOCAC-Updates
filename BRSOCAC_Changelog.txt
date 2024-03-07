@@ -7,7 +7,8 @@ Overhauls:
 - Redone the Sprite splash texture
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 Additions:
-- A different music plays when getting all questions wrong
+- Hiding in vents require you to hold a button to hide
+- Balloons leave a behind on the ground once they're popped *(Planned)
 - Added a little secret in practice mode
 - Added an item holder to the player
 - Added visual post processing effects when you get jumpscared
@@ -22,12 +23,16 @@ Bugfixes:
 - Fixed an out-of-bounds office trigger where Mr. Gold could still give you detention for escaping while standing in a corner of the room without exiting the room
 - i forgor
 Removals:
+- Removed all Bal Man related content *(Planned)
 - Removed the background for info texts
 - Removed randomized colored lights in anniversary style
 Changes:
+- The rare game over screen is now an error message with Blazsum in the background instead of "I'm inside your walls" with Bal Man in the background *(Planned)
+- A different music plays and a voiceline when getting all questions wrong
+- Balloons now have an item inside once the balloons are with a sign "?", but it's rare to find *(Planned)
 - Secret endings only work after winning all 4 styles, but if you manage to get an alternate ending before beating all of them, you'll get a different ending
 - Made a smaller room (the one that's located in a staff room in the rebuilt school) a bit bigger and is filled with cabinets
-- Bimbonumulous is now replaced as Rinolit instead
+- Bimbonumulous is now replaced as Rinolit instead *(Planned)
 - Reduced the amount of pre-projectile spawns in Mr. Anonymous' Challenge
 - In Blazjahn's Math Game, the music no longer plays the hang sound and changes the pitch to 0 instead
 Tweaks:
