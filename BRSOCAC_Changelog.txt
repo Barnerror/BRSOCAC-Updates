@@ -1,12 +1,14 @@
 Optimizations:
 Improvements:
 Overhauls:
+- Redone the ceiling texture
 - Redone the USB stick item texture
 - Redone the door trigger for NPCs
 - Redone the green apple decor texture
 - Redone the Sprite splash texture
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 Additions:
+- Added a name entry screen *(Planned)
 - Added alternative item uses *(Planned)
 - Added an announcements screen. Useful for upcoming game update statuses in the future *(Planned)
 - Added a visual effect when you sprint while Pezi is active
@@ -44,4 +46,4 @@ Changes
 - In Blazjahn's Math Game, the music no longer plays the hang sound and changes the pitch to 0 instead
 Tweaks:
 
-*0/8
+*0/9
