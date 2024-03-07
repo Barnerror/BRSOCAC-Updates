@@ -1,10 +1,12 @@
 Optimizations:
 Improvements:
 Overhauls:
+- Redone the door trigger for NPCs
 - Redone the green apple decor texture
 - Redone the Sprite splash texture
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 Additions:
+- NPCs can now open locked doors, although the open time is limited
 - Added an outline for the logo screen
 - Added an update checker screen, useful for upcoming updates in the future. Also features a changelog button
 - Made the UI fade out when the game is paused, but there's one issue to fix (and more)
