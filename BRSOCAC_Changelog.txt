@@ -21,7 +21,7 @@ Additions:
 - Added an ability where you can store your items in cabinets *(Planned)
 - Mr. Anonymous can approach, pickup and throw projectiles at you
 - Mr. Anonymous doesn't kill you if he has a shield on, but he will drain some of your health instead
-- Mr. Anonymous activates his shield if his health is at 5
+- Mr. Anonymous activates his shield if his health is at 10
 - Added a scrolling grid floor in Mr. Anonymous' phase 1 ending cutscene
 - Added a name entry screen *(Planned)
 - Added alternative item uses *(Planned)
