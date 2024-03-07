@@ -36,3 +36,5 @@ Changes:
 - Reduced the amount of pre-projectile spawns in Mr. Anonymous' Challenge
 - In Blazjahn's Math Game, the music no longer plays the hang sound and changes the pitch to 0 instead
 Tweaks:
+
+*0/5
