@@ -25,6 +25,9 @@ Additions:
 - Mr. Anonymous can approach, pickup and throw projectiles at you
 - Mr. Anonymous doesn't kill you if he has a shield on, but he will drain some of your health instead
 - Mr. Anonymous activates his shield if his health is at 10
+- Added GameJolt API (leaderboards & trophies)
+- Added Discord Rich Presence feature where your game stats can be viewed from your profile
+- Added a scrolling colored frame for the stamina meter, and is enabled if your stamina is greater than 100%
 - Added horizontal black bars transition effect
 - Added an ability where you can store your items in cabinets *(Planned)
 - Added a scrolling grid floor in Mr. Anonymous' phase 1 ending cutscene
@@ -53,6 +56,8 @@ Bugfixes:
 - Fixed an out-of-bounds office trigger where Mr. Gold could still give you detention for escaping while standing in a corner of the room without exiting the room
 
 Removals:
+- Removed the timer from the rich presence activity layout, but the timer can be viewed if you win the game
+- The math game music's pitch no longer raises when getting to the next problems
 - Removed a screen display from Mr. Gold's office
 - Removed a role reversal attack since it was too difficult
 - Removed all Bal Man related content *(Planned)
