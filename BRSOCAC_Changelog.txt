@@ -2,6 +2,7 @@ Optimizations:
 Improvements:
 Overhauls:
 - Redone some of the old meshes that were made using ProBuilder, and now they're remade and made in Blender
+- Redone the carpet texture
 - Redone the ceiling texture
 - Redone the USB stick item texture
 - Redone the door trigger for NPCs
