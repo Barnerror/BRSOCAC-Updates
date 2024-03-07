@@ -25,8 +25,9 @@ Additions:
 - Mr. Anonymous can approach, pickup and throw projectiles at you
 - Mr. Anonymous doesn't kill you if he has a shield on, but he will drain some of your health instead
 - Mr. Anonymous activates his shield if his health is at 10
+- Added game results to the roundathon mode
 - Added GameJolt API (leaderboards & trophies)
-- Added Discord Rich Presence feature where your game stats can be viewed from your profile
+- Added Discord Rich Presence feature where your game statistics can be viewed from your profile
 - Added a scrolling colored frame for the stamina meter, and is enabled if your stamina is greater than 100%
 - Added horizontal black bars transition effect
 - Added an ability where you can store your items in cabinets *(Planned)
@@ -56,7 +57,8 @@ Bugfixes:
 - Fixed an out-of-bounds office trigger where Mr. Gold could still give you detention for escaping while standing in a corner of the room without exiting the room
 
 Removals:
-- Removed the timer from the rich presence activity layout, but the timer can be viewed if you win the game
+- Fixed papers' high score in game results not calculating intentionally
+- Removed the game's timer from Discord Rich Presence statistics, but the timer can be viewed if you win the game
 - The math game music's pitch no longer raises when getting to the next problems
 - Removed a screen display from Mr. Gold's office
 - Removed a role reversal attack since it was too difficult
@@ -80,6 +82,7 @@ Changes:
 - Bimbonumulous is now replaced as Rinolit instead *(Planned)
 
 Tweaks:
+- If you attempt to restart or quit the game, your score will still be viewed if you're playing on endless or roundathon mode
 - Reduced the amount of pre-projectile spawns in Mr. Anonymous' Challenge bossfight
 - Increased overall game balance in Mr. Anonymous' Challenge bossfight
 - Increased the amount of projectile spawns in Mr. Anonymous' Challenge bossfight
