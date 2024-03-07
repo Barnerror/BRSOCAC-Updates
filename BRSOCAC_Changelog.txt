@@ -1,3 +1,17 @@
-Goodbye rald crack
-you will not be missed
-- Barneouw
+Optimizations:
+Improvements:
+Overhauls:
+- Redone the Sprite splash texture (in Blender)
+- Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
+Additions:
+- Added an outline for the logo screen
+- Added an update checker screen, useful for upcoming updates in the future. Also features a changelog button
+- Made the UI fade out when the game is paused, but there's one issue to fix (and more)
+- The paper text now applies a gradient effect
+- Added an X sign in front of the exits (only available when they're closed)
+Bugfixes:
+- i forgor
+Removals:
+Changes:
+Tweaks:
+- In Blazjahn's Math Game, the music no longer plays the hang sound and changes the pitch to 0 instead
