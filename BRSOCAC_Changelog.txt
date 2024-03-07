@@ -62,7 +62,7 @@ Changes:
 - Detention time now shows in the UI again
 - Mimikyu now moves next to the player instead of teleporting
 - Changed the fade out screen in Mr. Anonymous' challenge phase 1 ending, so it's better
-- The game now just closes instead of crashing your game *(Planned)
+- The game now just closes instead of crashing your game √
 - Your stamina now increases to 250% overtime instead of changing the stamina to 500%. Your stamina doesn't drop by the way (if the Pezi effect is active)
 - Changed the stamina from 200 to 250% after using a chocolate bar
 - Changed the image material for the vent background so it affects the lighting
@@ -79,4 +79,4 @@ Tweaks:
 - Increased the amount of projectile spawns in Mr. Anonymous' Challenge bossfight
 - In Blazjahn's Math Game, the music no longer plays the hang sound and changes the pitch to 0 instead
 
-*0/16 finished
+*1/16 finished
