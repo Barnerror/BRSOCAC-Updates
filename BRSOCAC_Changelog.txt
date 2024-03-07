@@ -16,6 +16,7 @@ Overhauls:
 
 Additions:
 - Picked up items now respawn in endless mode
+- Your scores can now be submitted to GameJolt's leaderboards (only works if you're connected to GameJolt)
 - Mr. Gold can give Josh detention
 - Mr. Gold now runs away from the school upon getting the final warning during practice mode *(Planned)
 - The Sprite splash bounces off once it hits Josh
