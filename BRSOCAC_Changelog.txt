@@ -17,10 +17,13 @@ Additions:
 - Once collecting a paper, dollar (or getting a warning), the text plays a little animation
 - Added an X sign in front of the exits (only available when they're closed)
 Bugfixes:
+- Fixed an out-of-bounds office trigger where Mr. Gold could still give you detention for escaping while standing in a corner of the room without exiting the room
 - i forgor
 Removals:
+- Removed the background for info texts
 Changes:
-- Infos no longer apply the black background
-Tweaks:
-- There are less pre-projectile spawns in Mr. Anonymous' Challenge
+- Made a smaller room (the one that's located in a staff room in the rebuilt school) a bit bigger and is filled with cabinets
+- Bimbonumulous is now replaced as Rinolit instead
+- Reduced the amount of pre-projectile spawns in Mr. Anonymous' Challenge
 - In Blazjahn's Math Game, the music no longer plays the hang sound and changes the pitch to 0 instead
+Tweaks:
