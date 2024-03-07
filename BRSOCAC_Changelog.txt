@@ -1,7 +1,8 @@
 Optimizations:
 Improvements:
 Overhauls:
-- Redone the Sprite splash texture (in Blender)
+- Redone the green apple decor texture
+- Redone the Sprite splash texture
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 Additions:
 - Added an outline for the logo screen
