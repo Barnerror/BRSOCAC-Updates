@@ -1,7 +1,9 @@
 Optimizations:
+
 Improvements:
 - Improved the game statistics (the one from the pause menu), so they're now larger, but smaller icons
 - Improved some of the old meshes that were made using ProBuilder, and now they're remade and made in Blender
+
 Overhauls:
 - Redone the carpet texture
 - Redone the ceiling texture
@@ -11,6 +13,7 @@ Overhauls:
 - Redone the green apple decor texture
 - Redone the Sprite splash texture
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
+
 Additions:
 - Mr. Gold can give Josh detention
 - Mr. Gold now runs away from the school upon getting the final warning during practice mode *(Planned)
@@ -40,16 +43,19 @@ Additions:
 - The paper text now applies a gradient effect
 - Once collecting a paper, dollar (or getting a warning), the text plays a little animation
 - Added an X sign in front of the exits (only available when they're closed)
+
 Bugfixes:
 - Fixed a bug where Dylan couldn't intentionally target the player in the original secret ending
 - Fixed Alex's bang sound where it could play twice sometimes
 - Fixed an out-of-bounds office trigger where Mr. Gold could still give you detention for escaping while standing in a corner of the room without exiting the room
+
 Removals:
 - Removed a screen display from Mr. Gold's office
 - Removed a role reversal attack since it was too difficult
 - Removed all Bal Man related content *(Planned)
 - Removed the background for info texts
 - Removed randomized colored lights in anniversary style
+
 Changes:
 - Detention time now shows in the UI again
 - Mimikyu now moves next to the player instead of teleporting
@@ -68,6 +74,7 @@ Changes:
 - Bimbonumulous is now replaced as Rinolit instead *(Planned)
 - Reduced the amount of pre-projectile spawns in Mr. Anonymous' Challenge bossfight
 - In Blazjahn's Math Game, the music no longer plays the hang sound and changes the pitch to 0 instead
+
 Tweaks:
 
-*0/16
+*0/16 finished
