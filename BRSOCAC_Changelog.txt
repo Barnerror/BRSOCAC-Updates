@@ -31,6 +31,8 @@ Removals:
 - Removed the background for info texts
 - Removed randomized colored lights in anniversary style
 Changes
+- Your stamina now increases to 250% overtime instead of changing the stamina rate to 500% (if the Pezi effect is active)
+- Changed the stamina rate from 200 to 250% after using a chocolate bar
 - Changed the image material for the vent background so it affects the lighting
 - The rare game over screen is now an error message with Blazsum in the background instead of "I'm inside your walls" with Bal Man in the background *(Planned)
 - A different music plays and a voiceline when getting all questions wrong
