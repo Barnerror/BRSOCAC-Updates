@@ -1,11 +1,14 @@
 Optimizations:
 Improvements:
 Overhauls:
+- Redone the USB stick item texture
 - Redone the door trigger for NPCs
 - Redone the green apple decor texture
 - Redone the Sprite splash texture
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 Additions:
+- Added an item holder to the player
+- Added visual post processing effects when you get jumpscared
 - NPCs can now open locked doors, although the open time is limited
 - Added an outline for the logo screen
 - Added an update checker screen, useful for upcoming updates in the future. Also features a changelog button
@@ -17,5 +20,7 @@ Bugfixes:
 - i forgor
 Removals:
 Changes:
+- Infos no longer apply the black background
 Tweaks:
+- There are less pre-projectile spawns in Mr. Anonymous' Challenge
 - In Blazjahn's Math Game, the music no longer plays the hang sound and changes the pitch to 0 instead
