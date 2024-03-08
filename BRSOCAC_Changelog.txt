@@ -52,13 +52,14 @@ Additions:
 - Added an X sign in front of the exits (only available when they're closed)
 
 Bugfixes:
+- Fixed papers' high score in game results not calculating intentionally
 - Fixed all gamemodes (expect for story and endless) that weren't working for all styles before
 - Fixed a bug where Dylan couldn't intentionally target the player in the original secret ending
 - Fixed Alex's bang sound where it could play twice sometimes
 - Fixed an out-of-bounds office trigger where Mr. Gold could still give you detention for escaping while standing in a corner of the room without exiting the room
 
 Removals:
-- Fixed papers' high score in game results not calculating intentionally
+- Removed a feature where you could wind up the stopwatch before the effect
 - Removed the game's timer from Discord Rich Presence statistics, but the timer can be viewed if you win the game
 - The math game music's pitch no longer raises when getting to the next problems
 - Removed a screen display from Mr. Gold's office
@@ -68,6 +69,7 @@ Removals:
 - Removed randomized colored lights in anniversary style
 
 Changes:
+- The stopwatch is now throwable instead of placing it down
 - Detention time now shows in the UI again
 - Mimikyu now moves next to the player instead of teleporting
 - Changed the fade out screen in Mr. Anonymous' challenge phase 1 ending, so it's better
