@@ -77,7 +77,7 @@ Changes:
 - Your stamina now increases to 250% overtime instead of changing the stamina to 500%. Your stamina doesn't drop by the way (if the Pezi effect is active)
 - Changed the stamina from 200 to 250% after using a chocolate bar
 - Changed the image material for the vent background so it affects the lighting
-- The rare game over screen is now an error message with Blazsum in the background instead of "I'm inside your walls" with Bal Man in the background *(Planned)
+- The rare game over screen is now an error message with Blazsum in the background instead of "I'm inside your walls" with Bal Man in the background √
 - A different music plays and a voiceline when getting all questions wrong
 - Balloons now have an item inside once the balloons are with a sign "?", but it's rare to find *(Planned)
 - Secret endings only work after winning all 4 styles, but if you manage to get an alternate ending before beating all of them, you'll get a different ending
@@ -91,4 +91,4 @@ Tweaks:
 - Increased the amount of projectile spawns in Mr. Anonymous' Challenge bossfight
 - In Blazjahn's Math Game, the music no longer plays the hang sound and changes the pitch to 0 instead
 
-*1/16 finished
+*2/16 finished
