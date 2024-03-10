@@ -22,7 +22,7 @@ Additions:
 - Mr. Gold can give Josh detention
 - Mr. Gold now runs away from the school upon getting the final warning during practice mode *(Planned)
 - The Sprite splash bounces off once it hits Josh
-- Sprite, Pezi and The Golden Broom can push balloons *(Planned)
+- Sprite, Pezi and The Golden Broom can push balloons √
 - Pezi now has an alternative item use (works the same as Sprite, but can do more) *(Planned)
 - Added usage icons on the left and right sides of the reticle depending on the selected item, so there won't be any confusion (for example, breaking a window with a sledgehammer) *(Planned)
 - Mr. Anonymous can approach, pickup and throw projectiles at you
@@ -94,4 +94,4 @@ Tweaks:
 - Increased the amount of projectile spawns in Mr. Anonymous' Challenge bossfight
 - In Blazjahn's Math Game, the music no longer plays the hang sound and changes the pitch to 0 instead
 
-*2/16 finished
+*3/16 finished
