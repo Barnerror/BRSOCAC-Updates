@@ -7,7 +7,7 @@ Improvements:
 Overhauls:
 - Redone the carpet texture
 - Redone the ceiling texture
-- Redone the yellow tile floor texture *(Planned)
+- Redone the yellow tile floor texture √
 - Redone the USB stick item texture
 - Redone the door trigger for NPCs
 - Redone the green apple decor texture
@@ -87,7 +87,7 @@ Changes:
 - Balloons now have an item inside once the balloons are with a sign "?", but it's rare to find *(Planned)
 - Secret endings only work after winning all 4 styles, but if you manage to get an alternate ending before beating all of them, you'll get a different ending
 - Made a smaller room (the one that's located in a staff room in the rebuilt school) a bit bigger and is filled with cabinets
-- Bimbonumulous is now replaced as Rinolit instead *(Planned)
+- Bimbonumulous is now replaced as Rinolit instead √
 
 Tweaks:
 - If you attempt to restart or quit the game, your score will still be viewed if you're playing on endless or roundathon mode
@@ -96,4 +96,4 @@ Tweaks:
 - Increased the amount of projectile spawns in Mr. Anonymous' Challenge bossfight
 - In Blazjahn's Math Game, the music no longer plays the hang sound and changes the pitch to 0 instead
 
-*3/17 finished
+*5/17 finished
