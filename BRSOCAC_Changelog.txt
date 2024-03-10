@@ -69,6 +69,7 @@ Removals:
 - Removed randomized colored lights in anniversary style
 
 Changes:
+- The water bucket drop has its own sprite
 - The stopwatch is now throwable instead of placing it down
 - Detention time now shows in the UI again
 - Mimikyu now moves next to the player instead of teleporting
