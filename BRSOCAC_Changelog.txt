@@ -41,7 +41,7 @@ Additions:
 - Added a visual effect when you sprint while Pezi is active
 - Hiding in vents are more useless in Mr. Anonymous' Challenge, which means an entity can open the vent (the one you're hiding in) and catch you *(Planned)
 - Hiding in vents require you to hold a button to hide
-- Balloons leave a behind on the ground once they're popped *(Planned)
+- Balloons leave a behind on the ground once they're popped √
 - Added a little secret in practice mode
 - Added an item holder to the player
 - Added visual post processing effects when you get jumpscared
@@ -96,4 +96,4 @@ Tweaks:
 - Increased the amount of projectile spawns in Mr. Anonymous' Challenge bossfight
 - In Blazjahn's Math Game, the music no longer plays the hang sound and changes the pitch to 0 instead
 
-*5/17 finished
+*6/17 finished
