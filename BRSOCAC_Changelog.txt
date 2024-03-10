@@ -52,6 +52,7 @@ Additions:
 - The paper text now applies a gradient effect
 - Once collecting a paper, dollar (or getting a warning), the text plays a little animation
 - Added an X sign in front of the exits (only available when they're closed)
+- Finished the practice mode ending *(Planned)
 
 Bugfixes:
 - Fixed papers' high score in game results not calculating intentionally
@@ -94,4 +95,4 @@ Tweaks:
 - Increased the amount of projectile spawns in Mr. Anonymous' Challenge bossfight
 - In Blazjahn's Math Game, the music no longer plays the hang sound and changes the pitch to 0 instead
 
-*3/16 finished
+*3/17 finished
