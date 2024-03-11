@@ -15,6 +15,9 @@ Overhauls:
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 
 Additions:
+- The Golden Broom can sweep up the rubbish (only the balloons that are left behind at the moment)
+- Popped balloons now apply gravity
+- Added balloons to the outside area in practice ending
 - Added a darker wood pattern texture
 - In practice mode, a faded out version of the random school of madness song plays when getting an ending
 - Picked up items now respawn in endless mode
@@ -62,6 +65,7 @@ Bugfixes:
 - Fixed an out-of-bounds office trigger where Mr. Gold could still give you detention for escaping while standing in a corner of the room without exiting the room
 
 Removals:
+- Removed the previous paper display that was intended in the Onur fangame before, but uses the text instead
 - Removed a feature where you could wind up the stopwatch before the effect
 - Removed the game's timer from Discord Rich Presence statistics, but the timer can be viewed if you win the game
 - The math game music's pitch no longer raises when getting to the next problems
