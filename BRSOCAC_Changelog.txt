@@ -65,6 +65,7 @@ Bugfixes:
 - Fixed an out-of-bounds office trigger where Mr. Gold could still give you detention for escaping while standing in a corner of the room without exiting the room
 
 Removals:
+- Removed effect timers since sliders are used for the effects
 - Removed the previous paper display that was intended in the Onur fangame before, but uses the text instead
 - Removed a feature where you could wind up the stopwatch before the effect
 - Removed the game's timer from Discord Rich Presence statistics, but the timer can be viewed if you win the game
@@ -95,6 +96,7 @@ Changes:
 - Bimbonumulous is now replaced as Rinolit instead √
 
 Tweaks:
+- The stamina meter is now located to the top-center of your screen
 - Unlocking "Items Are Pointless" trophy requires you to beat the game as long you don't play in practice mode
 - If you attempt to restart or quit the game, your score will still be viewed if you're playing on endless or roundathon mode
 - Reduced the amount of pre-projectile spawns in Mr. Anonymous' Challenge bossfight
