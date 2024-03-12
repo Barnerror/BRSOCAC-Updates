@@ -15,6 +15,8 @@ Overhauls:
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 
 Additions:
+- Added a scary part for the error screen *(Planned)
+- Rinolit now has additional animations
 - The Golden Broom can sweep up the rubbish (only the balloons that are left behind at the moment)
 - Popped balloons now apply gravity
 - Added balloons to the outside area in practice ending
@@ -77,6 +79,7 @@ Removals:
 - Removed randomized colored lights in anniversary style
 
 Changes:
+- Rinolit only starts moving after finishing his speech, but stops if speaking
 - Exit count no longer uses the old display, but uses the text instead
 - The round table is now a single table (the one that's seen in practice ending)
 - The water bucket drop has its own sprite
@@ -96,6 +99,7 @@ Changes:
 - Bimbonumulous is now replaced as Rinolit instead √
 
 Tweaks:
+- Reduced The Golden Broom's speed
 - The stamina meter is now located to the top-center of your screen
 - Unlocking "Items Are Pointless" trophy requires you to beat the game as long you don't play in practice mode
 - If you attempt to restart or quit the game, your score will still be viewed if you're playing on endless or roundathon mode
@@ -104,4 +108,4 @@ Tweaks:
 - Increased the amount of projectile spawns in Mr. Anonymous' Challenge bossfight
 - In Blazjahn's Math Game, the music no longer plays the hang sound and changes the pitch to 0 instead
 
-*6/17 finished
+*6/18 finished
