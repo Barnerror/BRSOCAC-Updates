@@ -15,6 +15,7 @@ Overhauls:
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 
 Additions:
+- The slam sound plays upon closing exits during the math game in the original style
 - The math game music now applies a reverb effect after getting a question wrong
 - Added a scary part for the error screen *(Planned)
 - Rinolit now has additional animations
