@@ -3,6 +3,7 @@ Optimizations:
 Improvements:
 - Improved the game statistics (the one from the pause menu), so they're now larger, but smaller icons
 - Improved some of the old meshes that were made using ProBuilder, and now they're remade and made in Blender
+- Improved some of the songs
 
 Overhauls:
 - Redone the carpet texture
@@ -16,7 +17,8 @@ Overhauls:
 
 Additions:
 - Blaz now plays a laugh sound after getting a question wrong in Blazjahn's Math Game
-- Added a dither transition
+- Added horizontal black bars transition effect
+- Added dithering transition effect
 - The slam sound plays upon closing exits during the math game in the original style
 - The math game music now applies a reverb effect after getting a question wrong
 - Added a scary part for the error screen *(Planned)
@@ -41,7 +43,6 @@ Additions:
 - Added GameJolt API (leaderboards & trophies)
 - Added Discord Rich Presence feature where your game statistics can be viewed from your profile
 - Added a scrolling colored frame for the stamina meter, and is enabled if your stamina is greater than 100%
-- Added horizontal black bars transition effect
 - Added an ability where you can store your items in cabinets *(Planned)
 - Added a scrolling grid floor in Mr. Anonymous' phase 1 ending cutscene
 - Added a name entry screen *(Planned)
