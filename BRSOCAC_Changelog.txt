@@ -84,6 +84,7 @@ Removals:
 - Removed randomized colored lights in anniversary style
 
 Changes:
+- Rinolit now sees the player after 0.25 seconds before its sight *(Planned)
 - Rinolit only starts moving after finishing his speech, but stops if speaking
 - Exit count no longer uses the old display, but uses the text instead
 - The round table is now a single table (the one that's seen in practice ending)
@@ -114,4 +115,4 @@ Tweaks:
 - Increased the amount of projectile spawns in Mr. Anonymous' Challenge bossfight
 - In Blazjahn's Math Game, the music no longer plays the hang sound and changes the pitch to 0 instead
 
-*6/18 finished
+*6/19 finished
