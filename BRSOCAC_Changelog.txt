@@ -20,7 +20,7 @@ Additions:
 - Added more random contexts to Blazjahn's Math Game
 - Added extra frames to Blaz's anger animation
 - Blaz now plays a laugh sound after getting a question wrong in Blazjahn's Math Game
-- Added horizontal black bars transition effect
+- Added horizontal bars transition effect
 - Added dithering transition effect
 - Added swiping transition effect
 - The slam sound plays upon closing exits during the math game in the original style
