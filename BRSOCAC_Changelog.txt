@@ -22,6 +22,7 @@ Additions:
 - Blaz now plays a laugh sound after getting a question wrong in Blazjahn's Math Game
 - Added horizontal black bars transition effect
 - Added dithering transition effect
+- Added swiping transition effect
 - The slam sound plays upon closing exits during the math game in the original style
 - The math game music now applies a reverb effect after getting a question wrong
 - Added a scary part for the error screen *(Planned)
