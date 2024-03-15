@@ -16,6 +16,7 @@ Overhauls:
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 
 Additions:
+- In Blazjahn's Math Game, the white texts apply a white underlay
 - Added more random contexts to Blazjahn's Math Game
 - Added extra frames to Blaz's anger animation
 - Blaz now plays a laugh sound after getting a question wrong in Blazjahn's Math Game
@@ -107,7 +108,7 @@ Changes:
 - Bimbonumulous is now replaced as Rinolit instead √
 
 Tweaks:
-- In Blazjahn's Math Game, the delay before end is from 0.5 to 1.25 seconds
+- In Blazjahn's Math Game, the delay before end is from 0.5 to 1.25 seconds √
 - The chances of getting a rare game over screen are more smaller than before, and made it so you can get it 5 times throughout the game progress. But if you still manage to get the rare screen after seeing it 5 times, the game will just send you to the title screen
 - Reduced The Golden Broom's speed a little bit
 - The stamina meter is now located to the top-center of your screen
