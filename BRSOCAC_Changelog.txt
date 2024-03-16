@@ -86,7 +86,7 @@ Removals:
 - The math game music's pitch no longer raises when getting to the next problems
 - Removed a screen display from Mr. Gold's office
 - Removed a role reversal attack since it was too difficult
-- Removed all Bal Man related content *(Planned)
+- Removed all Bal Man related content (except for the main posters)
 - Removed the background for info texts
 - Removed randomized colored lights in anniversary style
 
@@ -112,6 +112,7 @@ Changes:
 - Bimbonumulous is now replaced as Rinolit instead √
 
 Tweaks:
+- Made some of Mimikyu's voicelines louder
 - Tweaked directional lighting angles
 - In Blazjahn's Math Game, the delay before end is from 0.5 to 1.25 seconds √
 - The chances of getting a rare game over screen are more smaller than before, and made it so you can get it 5 times throughout the game progress. But if you still manage to get the rare screen after seeing it 5 times, the game will just send you to the title screen
@@ -124,4 +125,4 @@ Tweaks:
 - Increased the amount of projectile spawns in Mr. Anonymous' Challenge bossfight
 - In Blazjahn's Math Game, the music no longer plays the hang sound and changes the pitch to 0 instead
 
-*7/20 finished
+*8/20 finished
