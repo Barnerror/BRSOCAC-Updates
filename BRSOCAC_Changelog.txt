@@ -17,6 +17,8 @@ Overhauls:
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 
 Additions:
+- Added a new gamemode "Power Outage" *(Planned)
+- Added missing decorations in the original school
 - In Blazjahn's Math Game, the white texts apply a white underlay
 - Added shadows (shadow resolutions can be adjusted in the settings, although it costs the game performance if enabled)
 - Added more random contexts to Blazjahn's Math Game
@@ -115,7 +117,7 @@ Tweaks:
 - Made some of Mimikyu's voicelines louder
 - Tweaked directional lighting angles
 - In Blazjahn's Math Game, the delay before end is from 0.5 to 1.25 seconds √
-- The chances of getting a rare game over screen are more smaller than before, and made it so you can get it 5 times throughout the game progress. But if you still manage to get the rare screen after seeing it 5 times, the game will just send you to the title screen
+- The chances of getting a rare game over screen are more smaller than before, and made it so you can get it 5 times throughout the game progress. But if you still manage to get the rare screen after seeing it 5 times, the game will show you a different one*(Planned)
 - Reduced The Golden Broom's speed a little bit
 - The stamina meter is now located to the top-center of your screen
 - Unlocking "Items Are Pointless" trophy requires you to beat the game as long you don't play in practice mode
@@ -125,4 +127,4 @@ Tweaks:
 - Increased the amount of projectile spawns in Mr. Anonymous' Challenge bossfight
 - In Blazjahn's Math Game, the music no longer plays the hang sound and changes the pitch to 0 instead
 
-*8/20 finished
+*8/22 finished
