@@ -6,6 +6,7 @@ Improvements:
 - Improved some of the songs
 
 Overhauls:
+- Redone the whole title scene *(Planned)
 - Redone the whole settings menu *(Planned)
 - Redone the carpet texture
 - Redone the ceiling texture
@@ -17,6 +18,7 @@ Overhauls:
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 
 Additions:
+- Added more stuff around the map in the mixed school
 - Added a new gamemode "Power Outage" *(Planned)
 - Added missing decorations in the original school
 - In Blazjahn's Math Game, the white texts apply a white underlay
@@ -127,4 +129,4 @@ Tweaks:
 - Increased the amount of projectile spawns in Mr. Anonymous' Challenge bossfight
 - In Blazjahn's Math Game, the music no longer plays the hang sound and changes the pitch to 0 instead
 
-*8/22 finished
+*8/23 finished
