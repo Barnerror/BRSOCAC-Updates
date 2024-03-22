@@ -96,6 +96,7 @@ Removals:
 - Removed randomized colored lights in anniversary style
 
 Changes:
+- The corded hanging lights (the ones in the original school's fanart room) are now replaced as ceiling fans
 - Blaz head indicator textures are no longer black and white
 - Rinolit now sees the player after 0.25 seconds before its sight
 - Rinolit only starts moving after finishing his speech, but stops if speaking
