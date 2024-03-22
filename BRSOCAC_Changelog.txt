@@ -124,7 +124,6 @@ Tweaks:
 - In Blazjahn's Math Game, the delay before end is from 0.5 to 1.25 seconds √
 - The chances of getting a rare game over screen are more smaller than before, and made it so you can get it 5 times throughout the game progress. But if you still manage to get the rare screen after seeing it 5 times, the game will show you a different one*(Planned)
 - Reduced The Golden Broom's speed a little bit
-- The stamina meter is now located to the top-center of your screen
 - Unlocking "Items Are Pointless" trophy requires you to beat the game as long you don't play in practice mode
 - If you attempt to restart or quit the game, your score will still be viewed if you're playing on endless or roundathon mode
 - Reduced the amount of pre-projectile spawns in Mr. Anonymous' Challenge bossfight
