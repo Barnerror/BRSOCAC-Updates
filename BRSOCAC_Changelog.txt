@@ -6,7 +6,7 @@ Improvements:
 - Improved some of the songs
 
 Overhauls:
-- Reworked the entire Discord Rich Presence feature
+- Reworked some of the Discord Rich Presence scripts a little bit
 - Redone the whole title scene *(Planned)
 - Redone the whole settings menu *(Planned)
 - Redone the carpet texture
