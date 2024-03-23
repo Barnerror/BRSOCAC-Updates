@@ -6,7 +6,7 @@ Improvements:
 - Improved some of the songs
 
 Overhauls:
-- Reworked the entire Discord Rich Presence feature (now includes buttons on your profile's activity)
+- Reworked the entire Discord Rich Presence feature (now includes buttons on your profile's status)
 - Redone the whole title scene *(Planned)
 - Redone the whole settings menu *(Planned)
 - Redone the carpet texture
@@ -19,6 +19,7 @@ Overhauls:
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 
 Additions:
+- Added missing Discord Rich Presence objects to the rest of the game scenes
 - Added more stuff around the map in the mixed school
 - Added a new gamemode "Power Outage" *(Planned)
 - Added missing decorations in the original school
