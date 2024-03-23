@@ -97,7 +97,7 @@ Removals:
 - Removed randomized colored lights in anniversary style
 
 Changes:
-- Made some slight changes to the Discord Controller script which prevents assigning a specific script in all scenes
+- Made some slight changes to Discord RPC scripts which prevents assigning a specific script in all scenes
 - The corded hanging lights (the ones in the original school's fanart room) are now replaced as ceiling fans
 - Blaz head indicator textures are no longer black and white
 - Rinolit now sees the player after 0.25 seconds before its sight
