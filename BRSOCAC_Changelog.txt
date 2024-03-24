@@ -18,6 +18,7 @@ Overhauls:
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 
 Additions:
+- Added a respawn sound effect when an item respawns after picking it up
 - Added game time (shows how long you are playing a specific game mode)
 - Added objectives to different styles so you would kno what to do
 - Added missing Discord Rich Presence objects to the rest of the game scenes
@@ -100,9 +101,12 @@ Removals:
 - Removed randomized colored lights in anniversary style
 
 Changes:
+- The classic dollar (in the original school) picks a random location after each respawn
+- Once a dollar bill respawns in endless mode, the chances of getting a 5 dollar bill is random instead of getting "The 5 Dollar Bill Glitch"
 - Made some slight changes to Discord RPC scripts which prevents assigning a specific script in all scenes
 - The corded hanging lights (the ones in the original school's fanart room) are now replaced as ceiling fans
 - Blaz head indicator textures are no longer black and white
+- Josh is now replaced as Drip Slazzer (my character idea) *(Planned)
 - Rinolit now sees the player after 0.25 seconds before its sight
 - Rinolit only starts moving after finishing his speech, but stops if speaking
 - Exit count no longer uses the old display, but uses the text instead
@@ -136,4 +140,4 @@ Tweaks:
 - Increased the amount of projectile spawns in Mr. Anonymous' Challenge bossfight
 - In Blazjahn's Math Game, the music no longer plays the hang sound and changes the pitch to 0 instead
 
-*8/23 finished
+*8/24 finished
