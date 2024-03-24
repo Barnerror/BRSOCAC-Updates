@@ -18,6 +18,7 @@ Overhauls:
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 
 Additions:
+- Added game time (shows how long you are playing a specific game mode)
 - Added objectives to different styles so you would kno what to do
 - Added missing Discord Rich Presence objects to the rest of the game scenes
 - Added more stuff around the map in the mixed school
