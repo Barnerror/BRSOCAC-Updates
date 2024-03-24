@@ -18,6 +18,7 @@ Overhauls:
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 
 Additions:
+- Added objectives to different styles so you would kno what to do
 - Added missing Discord Rich Presence objects to the rest of the game scenes
 - Added more stuff around the map in the mixed school
 - Added a new gamemode "Power Outage" *(Planned)
@@ -76,6 +77,7 @@ Additions:
 - Finished the practice mode ending *(Planned)
 
 Bugfixes:
+- Fixed a bug where the Vsync setting wasn't working in earlier versions
 - Fixed Rinolit's sprite being as the first sprite in the sprite sheet if the time scale is 0
 - Fixed papers' high score in game results not calculating intentionally
 - Fixed all gamemodes (expect for story and endless) that weren't working for all styles before
