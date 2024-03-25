@@ -18,7 +18,7 @@ Overhauls:
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 
 Additions:
-- Added a particle effect to a 5 dollar bill *(Planned)
+- Added a particle effect to a 5 dollar bill √
 - Added a new gamemode "Power Outage" *(Planned)
 - Added a respawn sound effect when an item respawns after picking it up
 - Added a game time display (shows how long you are playing a specific game mode)
@@ -142,4 +142,4 @@ Tweaks:
 - Increased the amount of projectile spawns in Mr. Anonymous' Challenge bossfight
 - In Blazjahn's Math Game, the music no longer plays the hang sound and changes the pitch to 0 instead
 
-*8/25 finished
+*9/25 finished
