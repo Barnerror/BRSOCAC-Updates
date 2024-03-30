@@ -19,7 +19,7 @@ Overhauls:
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 
 Additions:
-- While having a chocolate bar, it plays a crunch sound if used (can be also heard by Blaz)
+- While having a chocolate bar, it plays a crunch sound if used (Blaz is also able to hear this sound)
 - Added a game over (ever since the original game didn't have one) *(Planned)
 - Particle effects appear once a 5 dollar bill spawns √
 - Added a new gamemode "Power Outage" *(Planned)
