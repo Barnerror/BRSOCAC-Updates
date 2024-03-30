@@ -1,4 +1,4 @@
-Optimizations:
+This might be the final update before the public release of the game.
 
 Improvements:
 - Improved the game statistics (the one from the pause menu), so they're now larger, but smaller icons
@@ -20,7 +20,7 @@ Overhauls:
 
 Additions:
 - While having a chocolate bar, it plays a crunch sound if used (Blaz is also able to hear this sound)
-- Added a game over (ever since the original game didn't have one) *(Planned)
+- Added a game over screen (ever since the original game didn't have one) *(Planned)
 - Particle effects appear once a 5 dollar bill spawns √
 - Added a new gamemode "Power Outage" *(Planned)
 - Added a respawn sound effect when an item respawns after picking it up
