@@ -19,6 +19,7 @@ Overhauls:
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 
 Additions:
+- Added double sprinting that will speed up the player more, can run through windows (only if the Pezi effect is active)
 - Added more status effects
 - While having a chocolate bar, it plays a crunch sound if used (Blaz is also able to hear this sound)
 - Added a game over screen (ever since the original game didn't have one) *(Planned)
