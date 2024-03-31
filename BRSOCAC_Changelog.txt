@@ -140,6 +140,7 @@ Changes:
 - Mimikyu (not original) is now replaced as (uhhhh i forgor) *(Planned)
 
 Tweaks:
+- The invisibility hat effect now lasts 10 seconds
 - Picking up papers only work if the math game script is null
 - Papers' respawn time is now 2 minutes instead of 1 minute and 30 seconds
 - Made some of Mimikyu's voicelines louder
