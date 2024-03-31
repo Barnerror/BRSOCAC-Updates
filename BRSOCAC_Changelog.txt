@@ -85,6 +85,7 @@ Additions:
 - Finished the practice mode ending *(Planned)
 
 Bugfixes:
+- When getting to harder difficulties in roundathon mode, the round text is located above the difficulty layout
 - Fixed a bug where Alex would spin the other way if getting pushed by Sprite
 - Fixed a bug where player's stamina could still drop while holding a key without moving
 - Fixed a bug where the Vsync setting wasn't working in earlier versions due to player prefs trying to get a float value instead of an int value
