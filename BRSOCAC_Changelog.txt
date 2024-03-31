@@ -85,6 +85,7 @@ Additions:
 - Finished the practice mode ending *(Planned)
 
 Bugfixes:
+- Fixed a bug where Alex would spin the other way if getting pushed by Sprite
 - Fixed a bug where player's stamina could still drop while holding a key without moving
 - Fixed a bug where the Vsync setting wasn't working in earlier versions due to player prefs trying to get a float value instead of an int value
 - Fixed Rinolit's sprite being as the first sprite in the sprite sheet if the time scale is 0
