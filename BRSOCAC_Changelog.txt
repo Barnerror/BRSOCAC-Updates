@@ -27,7 +27,7 @@ Additions:
 - Added a new gamemode "Power Outage" *(Planned)
 - Added a respawn sound effect when an item respawns after picking it up
 - Added a game time display (shows how long you are playing a specific game mode)
-- Added objectives that will show in the beginning of the game
+- Added a hint layout that will show in the beginning of the game (especially in the finale mode)
 - Added missing Discord Rich Presence scripts to the rest of the game scenes
 - Added more stuff around the map in the mixed school
 - Added missing decorations in the original school
