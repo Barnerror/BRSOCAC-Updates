@@ -20,7 +20,7 @@ Overhauls:
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 
 Additions:
-- While being in outside areas, the suffocation decreases 2 times more
+- While being in outside areas, the suffocation decreases faster
 - Added double sprinting that will speed up the player more, can run through windows or doors (only if the Pezi effect is active)
 - Added more status effects
 - While having a chocolate bar, it plays a crunch sound if used (Blaz is also able to hear this sound)
