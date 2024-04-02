@@ -113,6 +113,7 @@ Removals:
 - Removed randomized colored lights in anniversary style
 
 Changes:
+- Decreased the suffocation rate
 - Changed the item name "Oxygen Container" to "Oxygen Canister"
 - Changed some of the effect names to make them fair
 - The cursor interaction now has a fading animation instead of the scaling animation
