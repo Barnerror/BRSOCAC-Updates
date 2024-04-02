@@ -86,6 +86,7 @@ Additions:
 - Finished the practice mode ending *(Planned)
 
 Bugfixes:
+- Fixed a bug where health and oxygen gauges weren't affecting player's variables
 - When getting to harder difficulties in roundathon mode, the round text is located above the difficulty layout
 - Fixed a bug where Alex would spin the other way if getting pushed by Sprite
 - Fixed a bug where player's stamina could still drop while holding a key without moving
@@ -111,6 +112,7 @@ Removals:
 - Removed randomized colored lights in anniversary style
 
 Changes:
+- Changed the item name "Oxygen Container" to "Oxygen Canister"
 - Changed some of the effect names to make them fair
 - The cursor interaction now has a fading animation instead of the scaling animation
 - In roundathon mode, if the round timer reaches more than 1 hour, the timer displays "1:00:00.00" instead of "60:00.00" (same thing with the game timer)
