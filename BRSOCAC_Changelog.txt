@@ -22,7 +22,7 @@ Overhauls:
 Additions:
 - Alex's and Rinolit's animations freeze when NPCs stop moving
 - Added a few missing SFX captions
-- Using some of certain items now alerts Blaz
+- While using items, some of the certain items alert Blaz if they make noises
 - Blaz can now hear your footsteps
 - Mimikyu now snitches on (alerts...) Blaz if you attempt to skip his minigame
 - While being in outside areas, your suffocation decreases faster
