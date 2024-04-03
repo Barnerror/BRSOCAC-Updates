@@ -20,6 +20,8 @@ Overhauls:
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 
 Additions:
+- Alex's and Rinolit's animations freeze when NPCs stop moving
+- Added a few missing SFX captions
 - Using some of certain items now alerts Blaz
 - Blaz can now hear your footsteps
 - Mimikyu now snitches on (alerts...) Blaz if you attempt to skip his minigame
