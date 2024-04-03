@@ -26,7 +26,7 @@ Additions:
 - Added double sprinting that will speed up the player more, can run through windows or doors (only if the Pezi effect is active)
 - Added more status effects
 - While having a chocolate bar, it plays a crunch sound if used (Blaz is also able to hear this sound)
-- Added a game over screen (ever since the original game didn't have one) *(Planned)
+- Added a game over screen (ever since the original game didn't have one, and it's WIP btw)
 - Particle effects appear once a 5 dollar bill spawns √
 - Added a new gamemode "Power Outage" *(Planned)
 - Added a respawn sound effect when an item respawns after picking it up
@@ -164,4 +164,4 @@ Tweaks:
 - Increased the amount of projectile spawns in Mr. Anonymous' Challenge bossfight
 - In Blazjahn's Math Game, the music no longer plays the hang sound and changes the pitch to 0 instead
 
-*9/27 finished
+*10/27 finished
