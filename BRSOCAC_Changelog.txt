@@ -20,12 +20,13 @@ Overhauls:
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 
 Additions:
+- Using some of certain items now alerts Blaz
 - Blaz can now hear your footsteps
 - Mimikyu now alerts Blaz if you attempt to skip his minigame
 - While being in outside areas, your suffocation decreases faster
 - Added double sprinting that will speed up the player more, can run through windows or doors (only if the Pezi effect is active)
 - Added more status effects
-- While having a chocolate bar, it plays a crunch sound if used (Blaz is also able to hear this sound)
+- While having a chocolate bar, it plays a crunch sound if used
 - Added a game over screen (ever since the original game didn't have one, and it's WIP btw)
 - Particle effects appear once a 5 dollar bill spawns √
 - Added a new gamemode "Power Outage" *(Planned)
