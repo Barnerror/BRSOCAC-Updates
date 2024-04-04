@@ -20,6 +20,7 @@ Overhauls:
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 
 Additions:
+- While getting the first exit, the escape music's pitch decreases and plays a different song
 - Alex's and Rinolit's animations freeze when NPCs stop moving
 - Added a few missing SFX captions
 - While using items, some of the certain items alert Blaz if they make noises
@@ -105,6 +106,7 @@ Bugfixes:
 - Fixed an out-of-bounds office trigger where Mr. Gold could still give you detention for escaping while standing in a corner of the room without exiting the room
 
 Removals:
+- Removed reverbed sound effects after getting the first exit
 - Removed a chalkboard background in Blaz's head indicator
 - Removed effect timers since sliders are used for the effects
 - Removed the previous paper display that was intended in the Onur fangame before, but uses the text instead
