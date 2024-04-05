@@ -93,6 +93,7 @@ Additions:
 - Finished the practice mode ending *(Planned)
 
 Bugfixes:
+- Fixed a bug where Blaz couldn't get alerted by getting all questions wrong before spoop mode
 - Fixed a bug where health and oxygen gauges weren't affecting player's variables
 - When getting to harder difficulties in roundathon mode, the round text is located above the difficulty layout
 - Fixed a bug where Alex would spin the other way if getting pushed by Sprite
