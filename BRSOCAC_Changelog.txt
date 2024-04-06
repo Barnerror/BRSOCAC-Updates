@@ -155,6 +155,7 @@ Changes:
 
 Tweaks:
 - Blaz's head indicator only appears if he isn't stunned by the water pile
+- The oxygen canister effect now lasts 30 seconds
 - The invisibility hat effect now lasts 15 seconds
 - The pezi effect now lasts 75 seconds
 - Picking up papers only work if the math game script is null
