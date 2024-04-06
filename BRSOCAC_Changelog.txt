@@ -21,7 +21,7 @@ Overhauls:
 
 Additions:
 - While getting the first exit, the escape music's pitch decreases and plays a different song
-- Alex's and Rinolit's animations freeze when NPCs stop moving
+- Alex's, Rinolit's and Mimikyu's animations freeze when NPCs stop moving
 - Added a few missing SFX captions
 - While using items, some of the certain items alert Blaz if they make noises
 - Blaz can now hear your footsteps
