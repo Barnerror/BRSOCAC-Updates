@@ -154,6 +154,7 @@ Changes:
 - Mimikyu (not original) is now replaced as (uhhhh i forgor) *(Planned)
 
 Tweaks:
+- Tweaked positions of regular doors
 - Blaz's head indicator only appears if he isn't stunned by the water pile
 - The oxygen canister effect now lasts 30 seconds
 - The invisibility hat effect now lasts 15 seconds
