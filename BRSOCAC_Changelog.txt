@@ -6,6 +6,7 @@ Improvements:
 - Improved some of the songs
 
 Overhauls:
+- Redone some regular door textures
 - Redone the item slot texture
 - Redone the cursor sprites
 - Redone the whole title scene *(Planned)
@@ -107,6 +108,7 @@ Bugfixes:
 - Fixed an out-of-bounds office trigger where Mr. Gold could still give you detention for escaping while standing in a corner of the room without exiting the room
 
 Removals:
+- Removed top door signs
 - Removed reverbed sound effects after getting the first exit
 - Removed a chalkboard background in Blaz's head indicator
 - Removed effect timers since sliders are used for the effects
@@ -154,6 +156,7 @@ Changes:
 - Mimikyu (not original) is now replaced as (uhhhh i forgor) *(Planned)
 
 Tweaks:
+- Made dollar bills not useless in the original school (ever since the vending machines have been added)
 - Tweaked positions of regular doors
 - Blaz's head indicator only appears if he isn't stunned by the water pile
 - The oxygen canister effect now lasts 30 seconds
