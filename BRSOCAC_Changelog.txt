@@ -91,7 +91,6 @@ Additions:
 - Made the UI fade out when the game is paused
 - The paper text now applies a gradient effect
 - Once collecting a paper, dollar (or getting a warning), the text plays a little animation
-- Added an X sign in front of the exits (only available when they're closed)
 - Finished the practice mode ending *(Planned)
 
 Bugfixes:
