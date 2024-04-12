@@ -21,6 +21,7 @@ Overhauls:
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 
 Additions:
+- Cutting Mimikyu's jumprope with Mr. Gold in sight now counts as getting detention
 - While getting the first exit, the escape music's pitch decreases and plays a different song
 - Alex's, Rinolit's and Mimikyu's animations freeze when NPCs stop moving
 - Added a few missing SFX captions
@@ -94,6 +95,7 @@ Additions:
 - Finished the practice mode ending *(Planned)
 
 Bugfixes:
+- Fixed a bug where if the guilt is set as "Bullying" while being in rule free zone areas, it wouldn't count as getting detention
 - Fixed a bug where Blaz couldn't get alerted by getting all questions wrong before spoop mode
 - Fixed a bug where health and oxygen gauges weren't affecting player's variables
 - When getting to harder difficulties in roundathon mode, the round text is located above the difficulty layout
