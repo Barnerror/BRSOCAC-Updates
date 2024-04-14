@@ -6,6 +6,7 @@ Improvements:
 - Improved some of the songs
 
 Overhauls:
+- Mimikyu's music has been redone (Thanks to Mimikyu949)
 - Redone the credits menu (the names are also in alphabetical order)
 - Redone some regular door textures
 - Redone the item slot texture
