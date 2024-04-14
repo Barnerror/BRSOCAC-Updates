@@ -6,6 +6,7 @@ Improvements:
 - Improved some of the songs
 
 Overhauls:
+- Redone the credits menu (the names are also in an alphabetical order)
 - Redone some regular door textures
 - Redone the item slot texture
 - Redone the cursor sprites
