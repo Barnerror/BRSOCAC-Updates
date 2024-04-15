@@ -23,6 +23,7 @@ Overhauls:
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 
 Additions:
+- In timed mode, particle effects appear once a stopwatch spawns
 - Cutting Mimikyu's jumprope with Mr. Gold in sight now counts as getting detention
 - While getting the first exit, the escape music's pitch decreases and plays a different song
 - Alex's, Rinolit's and Mimikyu's animations freeze when NPCs stop moving
@@ -35,7 +36,7 @@ Additions:
 - Added more status effects
 - While having a chocolate bar, it plays a crunch sound if used
 - Added a game over screen (ever since the original game didn't have one, and it's WIP btw)
-- Particle effects appear once a 5 dollar bill spawns √
+- Particle effects appear once a 5 dollar bill spawns
 - Added a new gamemode "Power Outage" *(Planned)
 - Added a respawn sound effect when an item respawns after picking it up
 - Added a game time display (shows how long you are playing a specific game mode)
