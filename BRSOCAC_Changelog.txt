@@ -23,6 +23,7 @@ Overhauls:
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 
 Additions:
+- NPCs now close doors after exiting the trigger
 - The game now actually has a filled out story menu
 - In timed mode, particle effects appear once a stopwatch spawns
 - Cutting Mimikyu's jumprope with Mr. Gold in sight now counts as getting detention
@@ -161,6 +162,7 @@ Changes:
 - Mimikyu (not original) is now replaced as (uhhhh i forgor) *(Planned)
 
 Tweaks:
+- Tweaked the door trigger so NPCs don't attempt to close the door if one or more characters are standing inside a door trigger
 - Made dollar bills not useless in the original school (ever since the vending machines have been added)
 - Tweaked positions of regular doors
 - Blaz's head indicator only appears if he isn't stunned by the water pile
