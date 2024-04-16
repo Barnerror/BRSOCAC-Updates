@@ -162,7 +162,7 @@ Changes:
 - Mimikyu (not original) is now replaced as (uhhhh i forgor) *(Planned)
 
 Tweaks:
-- Tweaked the door trigger so NPCs don't attempt to close the door if one or more characters are standing inside a door trigger
+- Tweaked the door trigger so NPCs don't attempt to close the door if one or more characters are standing inside of a door interaction trigger
 - Made dollar bills not useless in the original school (ever since the vending machines have been added)
 - Tweaked positions of regular doors
 - Blaz's head indicator only appears if he isn't stunned by the water pile
