@@ -23,6 +23,7 @@ Overhauls:
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 
 Additions:
+- Mimikyu no longer approaches to the player if found guilty
 - NPCs now close doors after exiting the trigger
 - The game now actually has a filled out story menu
 - In timed mode, particle effects appear once a stopwatch spawns
