@@ -165,6 +165,7 @@ Changes:
 - Mimikyu (not original) is now replaced as (uhhhh i forgor) *(Planned)
 
 Tweaks:
+- NPCs don't close doors while you're standing in a bigger door trigger
 - The pezi effect doesn't work only if the jumprope minigame is inactive
 - The running guilt is no longer to be found guilty while moving (with sprinting) during the jumprope minigame
 - Tweaked the door trigger so NPCs don't attempt to close the door if one or more characters are standing inside of a door interaction trigger
