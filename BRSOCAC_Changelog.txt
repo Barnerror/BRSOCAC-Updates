@@ -101,6 +101,7 @@ Additions:
 - Finished the practice mode ending *(Planned)
 
 Bugfixes:
+- Fixed a bug where the entity close up post processing effects would reset if disabled while also being near to an another entity that use post processing effects
 - Fixed a bug where Mimikyu couldn't wander properly while being disappointed
 - Fixed a bug where if the guilt is set as "Bullying" while being in rule free zone areas, it wouldn't count as getting detention
 - Fixed a bug where Blaz couldn't get alerted by getting all questions wrong before spoop mode
