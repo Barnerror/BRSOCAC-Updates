@@ -24,6 +24,7 @@ Overhauls:
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 
 Additions:
+- Texts in the main UI now apply the outline effect
 - Added speakers to the soundtrack zone room
 - Mimikyu no longer approaches to the player (will also deactivate the jumprope minigame if active) if found guilty
 - NPCs now close doors after exiting the trigger
@@ -167,6 +168,7 @@ Changes:
 - Mimikyu (not original) is now replaced as (uhhhh i forgor) *(Planned)
 
 Tweaks:
+- Optimized the billboard script
 - NPCs don't close doors while you're standing in a bigger door trigger
 - The pezi effect doesn't work only if the jumprope minigame is inactive
 - The running guilt is no longer to be found guilty while moving (with sprinting) during the jumprope minigame
