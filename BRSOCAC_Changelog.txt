@@ -24,6 +24,7 @@ Overhauls:
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 
 Additions:
+- UIs now have a pixel perfect effect, meaning that the text's pixels would match to the original's screen size pixels (640x480)
 - Texts in the main UI now apply the outline effect
 - Added speakers to the soundtrack zone room
 - Mimikyu no longer approaches to the player (will also deactivate the jumprope minigame if active) if found guilty
