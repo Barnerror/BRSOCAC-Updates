@@ -8,6 +8,7 @@ Improvements:
 Overhauls:
 - Mimikyu's music has been redone (Thanks to Mimikyu949)
 - Redone the credits menu (the names are also in alphabetical order)
+- Redone the day ambience sound
 - Redone the title screen texture
 - Redone some regular door textures
 - Redone the regular door frame texture
@@ -170,6 +171,7 @@ Changes:
 - Mimikyu (not original) is now replaced as (uhhhh i forgor) *(Planned)
 
 Tweaks:
+- Tweaked the regular door openings so they don't close while thay are still opening
 - Optimized the billboard script
 - NPCs don't close doors while you're standing in a bigger door trigger
 - The pezi effect doesn't work only if the jumprope minigame is inactive
