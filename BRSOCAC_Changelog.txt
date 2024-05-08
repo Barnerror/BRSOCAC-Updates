@@ -9,6 +9,7 @@ Overhauls:
 - Mimikyu's music has been redone (Thanks to Mimikyu949)
 - Redone the credits menu (the names are also in alphabetical order)
 - Redone the day ambience sound
+- Redone the rest of the posters
 - Redone the title screen texture
 - Redone some regular door textures
 - Redone the regular door frame texture
@@ -26,6 +27,7 @@ Overhauls:
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 
 Additions:
+- Added some new posters
 - Menu screens now render to a 640x480 render texture
 - Texts in the main UI now apply the outline effect
 - Added speakers to the soundtrack zone room
