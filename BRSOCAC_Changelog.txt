@@ -27,6 +27,7 @@ Overhauls:
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 
 Additions:
+- Josh now pushes back the player if you make contact with him without having a single item in your inventory
 - Added new hallways in the rebuilt school
 - Added some new posters
 - Menu screens now render to a 640x480 render texture
