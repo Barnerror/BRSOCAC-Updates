@@ -27,6 +27,8 @@ Overhauls:
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 
 Additions:
+- During spoop mode in Mr. Anonymous' Challenge, the ceiling lights shut off completely
+- Added a notification where it'll notify you what rule you broke in front of Mr. Gold
 - Josh now pushes back the player if you make contact with him without having a single item in your inventory
 - Added new hallways in the rebuilt school
 - Added some new posters
@@ -110,6 +112,8 @@ Additions:
 - Finished the practice mode ending *(Planned)
 
 Bugfixes:
+- Fixed a bug with certain item spawns in different gamemodes where they couldn't spawn intentionally
+- Fixed a bug where if you quit the game in Mr. Anonymous' Challenge, the bossfight's checkpoint boolean wouldn't disable if played again
 - Fixed a bug where the entity close up post processing effects would reset if an another entity that applies post processing effects is disabled while also being near to him
 - Fixed a bug where Mimikyu couldn't wander properly while being disappointed
 - Fixed a bug where if the guilt is set as "Bullying" while being in rule free zone areas, it wouldn't count as getting detention
@@ -142,6 +146,9 @@ Removals:
 - Removed randomized colored lights in anniversary style
 
 Changes:
+- Replaced a few items
+- During spoop mode in Mr. Anonymous' Challenge, it no longer plays a slam sound, but plays a different sound instead
+- Changed fanart room's variant
 - Decreased the suffocation rate
 - Changed the item name "Oxygen Container" to "Oxygen Canister"
 - Changed some of the effect names to make them fair
