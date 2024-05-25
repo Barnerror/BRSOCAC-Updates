@@ -182,6 +182,7 @@ Changes:
 - Mimikyu (not original) is now replaced as (uhhhh i forgor) *(Planned)
 
 Tweaks:
+- Mr. Anonymous now goes a little bit slower
 - Mimikyu's jumprope minigame now deactivates if you use the Sprite on him, or if he gets swept away from the player
 - Tweaked the regular door openings so they don't close while thay are still opening
 - Optimized the billboard script
