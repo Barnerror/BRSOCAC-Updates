@@ -27,6 +27,8 @@ Overhauls:
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 
 Additions:
+- Added a sticker mechanic *(Planned)
+- Added FOV, shadows, ambiences' volume, skip startup screen, censorship, avatar (etc.) settings 
 - During spoop mode in Mr. Anonymous' Challenge, the ceiling lights shut off completely
 - Added a notification where it'll notify you what rule you broke in front of Mr. Gold
 - Josh now pushes back the player if you make contact with him without having a single item in your inventory
@@ -210,4 +212,4 @@ Tweaks:
 - Increased the amount of projectile spawns in Mr. Anonymous' Challenge bossfight
 - In Blazjahn's Math Game, the music no longer plays the hang sound and changes the pitch to 0 instead
 
-*11/27 finished
+*11/28 finished
