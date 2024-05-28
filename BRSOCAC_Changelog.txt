@@ -27,6 +27,7 @@ Overhauls:
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 
 Additions:
+- Readded projectile lights
 - Added a sticker mechanic *(Planned)
 - Added FOV, shadows, ambiences' volume, skip startup screen, censorship, avatar (etc.) settings 
 - During spoop mode in Mr. Anonymous' Challenge, the ceiling lights shut off completely
