@@ -36,7 +36,7 @@ Additions:
 - Added new hallways in the rebuilt school
 - Added some new posters
 - Menu screens now render to a 640x480 render texture
-- Texts in certain UIs now apply the outline effect
+- Texts in certain UIs now apply an outline effect
 - Added speakers to the soundtrack zone room
 - Mimikyu no longer approaches to the player (will also deactivate the jumprope minigame if active) if found guilty
 - NPCs now close doors after exiting the trigger
