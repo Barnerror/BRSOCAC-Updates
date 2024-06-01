@@ -149,6 +149,7 @@ Removals:
 - Removed randomized colored lights in anniversary style
 
 Changes:
+- Changed Mimikyu's character description
 - Replaced a few items
 - During spoop mode in Mr. Anonymous' Challenge, it no longer plays a slam sound, but plays a different sound instead
 - Changed fanart room's variant
