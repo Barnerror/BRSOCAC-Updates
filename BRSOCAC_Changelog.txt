@@ -161,7 +161,7 @@ Changes:
 - The classic dollar (in the original school) picks a random location after each respawn
 - Once a dollar bill respawns in endless mode, the chances of getting a 5 dollar bill is random instead of getting "The 5 Dollar Bill Glitch", but only if a 5 dollar bill spawns in the beginning of the game
 - Made some slight changes to Discord RPC scripts which prevents assigning a specific script in all scenes
-- The corded hanging lights (the ones in the original school's fanart room) are now replaced as ceiling fans
+- The corded hanging lights (the ones in the rebuilt school's fanart room) are now replaced as ceiling fans
 - Blaz head indicator textures are no longer black and white
 - Rinolit now sees the player after 0.25 seconds before its sight
 - Rinolit only starts moving after finishing his speech, but stops if speaking
