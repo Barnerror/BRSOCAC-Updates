@@ -29,6 +29,7 @@ Overhauls:
 
 Additions:
 - Readded projectile lights
+- Mr. Anonymous now runs to the final exit while trying to leave instead of him spawning by getting the last fake exit
 - Added a sticker mechanic *(Planned)
 - Added FOV, shadows, ambiences' volume, skip startup screen, censorship, avatar (etc.) settings 
 - During spoop mode in Mr. Anonymous' Challenge, the ceiling lights shut off completely
