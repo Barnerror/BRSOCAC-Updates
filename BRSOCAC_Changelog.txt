@@ -28,6 +28,7 @@ Overhauls:
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 
 Additions:
+- When picking up money, it plays a "Cha Ching" sound effect
 - Readded projectile lights
 - Mr. Anonymous now runs to the final exit while trying to leave instead of him spawning by getting the last fake exit
 - Added a sticker mechanic *(Planned)
