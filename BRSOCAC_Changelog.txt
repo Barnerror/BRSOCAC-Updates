@@ -117,9 +117,10 @@ Additions:
 - Made the UI fade out when the game is paused
 - The paper text now applies a gradient effect
 - Once collecting a paper, dollar (or getting a warning), the text plays a little animation
-- Finished the practice mode ending *(Planned)
+- Finished the practice mode ending
 
 Bugfixes:
+- Fixed a bug where the distortion shaders would change when the audio listener is paused
 - Fixed a bug with certain item spawns in different gamemodes where they couldn't spawn intentionally
 - Fixed a bug where if you quit the game in Mr. Anonymous' Challenge, the bossfight's checkpoint boolean wouldn't disable if played again
 - Fixed a bug where the entity close up post processing effects would reset if an another entity that applies post processing effects is disabled while also being near to him
@@ -220,4 +221,4 @@ Tweaks:
 - Increased the amount of projectile spawns in Mr. Anonymous' Challenge bossfight
 - In Blazjahn's Math Game, the music no longer plays the hang sound and changes the pitch to 0 instead
 
-*11/28 finished
+*12/28 finished
