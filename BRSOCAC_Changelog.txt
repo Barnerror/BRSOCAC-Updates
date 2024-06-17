@@ -157,6 +157,7 @@ Removals:
 - Removed randomized colored lights in anniversary style
 
 Changes:
+- Made FaridyX's character design a bit more accurate
 - Changed the name of "The Soundtrack Zone" to "The Official Soundtrack Stage"
 - Changed Mimikyu's character description
 - Replaced a few items
