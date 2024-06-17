@@ -141,7 +141,7 @@ Bugfixes:
 
 Removals:
 - Removed 1 character from the game (Placeface)
-- Scrapped camera's rendering scale setting
+- Removed camera's rendering scale setting
 - Removed top door signs
 - Removed reverbed sound effects after getting the first exit
 - Removed a chalkboard background in Blaz's head indicator
@@ -149,7 +149,7 @@ Removals:
 - Removed the previous paper display that was intended in the Onur fangame before, but uses the text instead
 - Removed a feature where you could wind up the stopwatch before the effect
 - Removed the game's timer from Discord Rich Presence statistics, but the timer can be viewed if you win the game
-- The math game music's pitch no longer raises when getting to the next problems
+- Removed a feature where the math game music's pitch no longer raises when getting to the next problems
 - Removed a screen display from Mr. Gold's office
 - Removed a role reversal attack since it was too difficult
 - Removed all Bal Man related content (except for the main posters)
