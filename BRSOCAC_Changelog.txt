@@ -121,6 +121,7 @@ Additions:
 - Finished the practice mode ending
 
 Bugfixes:
+- Fixed a bug where if you get a USB or a battery from the boombox with a full inventory, it would replace your highlighted item
 - Fixed a bug where the distortion shaders would change when the audio listener is paused
 - Fixed a bug with certain item spawns in different gamemodes where they couldn't spawn intentionally
 - Fixed a bug where if you quit the game in Mr. Anonymous' Challenge, the bossfight's checkpoint boolean wouldn't disable if played again
