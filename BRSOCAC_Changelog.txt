@@ -197,6 +197,7 @@ Changes:
 - Mimikyu (not original) is now replaced as (uhhhh i forgor) *(Planned)
 
 Tweaks:
+- Tweaked the jumping animation
 - Tweaked projectile's rotations so you won't be able to throw it while looking behind
 - Mr. Anonymous now goes a little bit slower
 - Mimikyu's jumprope minigame now deactivates if you use the Sprite on him, or if he gets swept away from the player
