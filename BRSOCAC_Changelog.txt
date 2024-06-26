@@ -28,6 +28,7 @@ Overhauls:
 - Redone the whole UI and made it smaller a bit (doesn't work on different game scenes yet)
 
 Additions:
+- Mr. Anonymous goes faster while he's holding a projectile without player's sight
 - You can now die by suffocating in a vent
 - Added in-game timestamps (useful for speedrunning)
 - When picking up money, it plays a "Cha Ching" sound effect
