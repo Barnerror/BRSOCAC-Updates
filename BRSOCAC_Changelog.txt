@@ -159,6 +159,7 @@ Removals:
 - Removed randomized colored lights in anniversary style
 
 Changes:
+- Changed readable note's overlay
 - Changed most meshes to the new ones in the orignal map
 - Readable notes now use text's contents instead of a string variable
 - Changed FaridyX's character design a bit
