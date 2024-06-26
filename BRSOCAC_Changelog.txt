@@ -121,6 +121,7 @@ Additions:
 - Finished the practice mode ending
 
 Bugfixes:
+- Fixed a bug where double door's triggered colliders would not ignore raycasts
 - Fixed a bug where if you get a USB or a battery from the boombox with a full inventory, it would replace your highlighted item
 - Fixed a bug where the distortion shaders would change when the audio listener is paused
 - Fixed a bug with certain item spawns in different gamemodes where they couldn't spawn intentionally
