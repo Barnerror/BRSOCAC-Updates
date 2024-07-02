@@ -144,6 +144,7 @@ Bugfixes:
 - Fixed an out-of-bounds office trigger where Mr. Gold could still give you detention for escaping while standing in a corner of the room without exiting the room
 
 Removals:
+- Removed loading screen's song
 - Removed 1 character from the game (Placeface)
 - Removed camera's rendering scale setting
 - Removed top door signs
@@ -161,6 +162,7 @@ Removals:
 - Removed randomized colored lights in anniversary style
 
 Changes:
+- Changed title screen's loading screen
 - Changed sticky note's overlay texts' font
 - Changed readable note's overlay
 - Changed most meshes to the new ones in the orignal map
