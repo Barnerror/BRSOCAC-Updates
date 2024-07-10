@@ -163,6 +163,7 @@ Removals:
 - Removed randomized colored lights in anniversary style
 
 Changes:
+- Changed a drill item as Sprite Zero (same thing as Sprite, but has a shorter distance of pushing characters)
 - Changed title screen's loading screen
 - Changed sticky note's overlay texts' font
 - Changed readable note's overlay
