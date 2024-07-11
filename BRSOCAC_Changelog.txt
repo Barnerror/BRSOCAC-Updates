@@ -6,6 +6,7 @@ Improvements:
 - Improved some of the songs
 
 Overhauls:
+- Redone most UIs in the game
 - Redone the ceiling light texture
 - Mimikyu's music has been redone
 - Redone the credits menu (the names are also in alphabetical order)
